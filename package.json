@@ -28,7 +28,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "chai": "^3.5.0",
     "clean-webpack-plugin": "^0.1.18",
-    "css-loader": "^0.28.9",
+    "css-loader": "^0.28.11",
     "enzyme": "^2.8.2",
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^16.1.0",
