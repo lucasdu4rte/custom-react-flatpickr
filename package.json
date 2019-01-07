@@ -20,7 +20,7 @@
     "flatpickr": "^4.2.4"
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.2",
+    "babel-eslint": "^9.0.0",
     "babel-jest": "^19.0.0",
     "babel-loader": "^7.0.0",
     "babel-preset-es2015": "^6.24.1",
